@@ -1,4 +1,4 @@
-namespace Task_5
+namespace RecursiveFibonacci
 {
     internal static class Program
     {
